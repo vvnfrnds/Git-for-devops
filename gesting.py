@@ -1,1 +1,1 @@
-hello dushmano
+print ("hello dushmano")
