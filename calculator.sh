@@ -1,6 +1,4 @@
-x=a+b+c
+#!/bin/bash
+add = a+b
 
-y=a-b
-
-
-z=a/b
+sub = a-b
